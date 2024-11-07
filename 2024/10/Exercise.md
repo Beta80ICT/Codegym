@@ -6,11 +6,11 @@ Poiché vendiamo i nostri prodotti dalla Germania, nessun cliente dell'area Euro
 
 | States  |  Percentage  |
 |---|---|
-| GBP: 5%  | nessuna commissione minima (sterline britanniche)  |
-| CHF: 3%  | nessuna commissione minima (Franchi svizzeri) |
-| DKK: 4% | nessuna commissione minima (corone danesi)  |
-| USD: 6% | commissione minima di 8,00 EUR (dollari USA)  |
-| CAD: 6% | commissione minima di 9,00 EUR (dollari canadesi) |
+| GBP | 5% nessuna commissione minima (sterline britanniche)  |
+| CHF | 3% nessuna commissione minima (Franchi svizzeri) |
+| DKK | 4% nessuna commissione minima (corone danesi)  |
+| USD | 6% commissione minima di 8,00 EUR (dollari USA)  |
+| CAD | 6% commissione minima di 9,00 EUR (dollari canadesi) |
 
 Fate attenzione ai casi di errore come, ad esempio, i prezzi negativi.
 Il vostro compito è quello di implementare la logica aziendale per il calcolo della tariffa. A questo punto, non ci si deve preoccupare di convertire il prezzo da €  alla valuta del cliente.
