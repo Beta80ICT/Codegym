@@ -2,7 +2,7 @@
 Il nostro negozio sta crescendo e quindi è arrivato il momento di vendere i nostri prodotti all'estero. Pertanto, consentiamo ai clienti di pagare in diverse valute. A seconda della valuta, il cliente deve pagare un sovrapprezzo oltre al prezzo effettivo, che è definito dalla somma dei prezzi totali dei prodotti. In questo scenario non ci preoccupiamo di sommare il premio, ma di implementare il calcolo del sovrapprezzo e di convertire il prezzo nella valuta scelta.
  
 ## Task 1 - Calcolo del prezzo della tariffa extra
-Poiché vendiamo i nostri prodotti dalla Germania, nessun cliente dell'area Euro deve pagare una tassa. **Per tutti gli altri paesi applichiamo una tariffa del 7%, ma CON UNA COMMISSIONE MINIMA di 10,00€ **. Ci sono alcuni casi eccezionali che dobbiamo considerare:
+Poiché vendiamo i nostri prodotti dalla Germania, nessun cliente dell'area Euro deve pagare una tassa. **Per tutti gli altri paesi applichiamo una tariffa del 7%, ma CON UNA COMMISSIONE MINIMA di 10,00€**. Ci sono alcuni casi eccezionali che dobbiamo considerare:
 
 | States  |  Percentage  |
 |---|---|
