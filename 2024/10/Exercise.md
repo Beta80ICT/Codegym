@@ -14,9 +14,13 @@ Poiché vendiamo i nostri prodotti dalla Germania, nessun cliente dell'area Euro
 
 Fate attenzione ai casi di errore come, ad esempio, i prezzi negativi.
 Il vostro compito è quello di implementare la logica aziendale per il calcolo della tariffa. A questo punto, non ci si deve preoccupare di convertire il prezzo da €  alla valuta del cliente.
+
 Utilizzare il ciclo di sviluppo guidato dai test:
+
 Scrivere un test che fallisce
+
 Far passare il test
+
 Riformulare il codice
 
 ## Task 2 - Conversione di valuta Calcolo del prezzo
